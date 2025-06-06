@@ -1,0 +1,6 @@
+@crud_postgre_HostAddress = http://localhost:5288
+
+GET {{crud_postgre_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
